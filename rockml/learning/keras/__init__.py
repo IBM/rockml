@@ -78,7 +78,7 @@ class KerasEstimator(Estimator):
         self.model.save_weights(os.path.join(path, model_weight_path))
         # Optimizer weights
         optimizer_weight_path = 'optimizer_weights.npy'
-        np.save(os.path.join(path, optimizer_weight_path), self.optimizer.get_weights())
+        np.save(os.path.join(path, optimizer_weight_path), self.optimizer.variables())
 
         # All the other configuration
         estimator_dict = dict()
