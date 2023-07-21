@@ -1,0 +1,14 @@
+graphviz>=0.2,<=2.40.1
+h5py==2.10.0
+numpy==1.18.1
+pandas==0.25.3
+pillow==6.2.1
+pydot==1.2.4
+pyyaml==5.3
+scikit-image==0.15
+scipy==1.4.1
+tensorflow>=2.0.0
+pytest==5.3.2
+matplotlib==3.1.1
+murmurhash==0.28.0
+lasio==0.24.1
