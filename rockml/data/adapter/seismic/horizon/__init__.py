@@ -1,3 +1,6 @@
+""" Copyright 2023 IBM Research. All Rights Reserved.
+"""
+
 import os
 from enum import Enum
 from functools import partial

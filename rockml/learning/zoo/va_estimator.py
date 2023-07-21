@@ -1,4 +1,5 @@
-""" Copyright 2020 IBM/GPN joint development. All Rights Reserved. """
+""" Copyright 2023 IBM Research. All Rights Reserved.
+"""
 
 from typing import List, Union, Tuple
 

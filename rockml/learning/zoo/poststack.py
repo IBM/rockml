@@ -1,5 +1,6 @@
-""" Copyright 2019 IBM Research. All Rights Reserved.
+""" Copyright 2023 IBM Research. All Rights Reserved.
 """
+
 from typing import List, Tuple
 
 import numpy as np

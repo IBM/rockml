@@ -1,4 +1,4 @@
-""" Copyright 2019 IBM Research. All Rights Reserved.
+""" Copyright 2023 IBM Research. All Rights Reserved.
 
     - Functions to modify seisfast that operates on numpy arrays.
 """
