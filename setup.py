@@ -22,6 +22,8 @@ setup(
         'scipy',
         'tensorflow',
         'pytest',
+        'murmurhash',
+        'lasio'
     ],
     license='Internal use only / IBM only',
     include_package_data=True,
