@@ -8,6 +8,20 @@ well-logs, and horizon geometries. It also provides many transformations and
 visualizations for the data. The learning module includes callbacks, data loaders,
 metrics, and state-of-the-art models for post-stack segmentation and VA estimation.
 
+## API structure
+
+Our API is divided in three main groups: data, transformations, and estimators.
+
+![datum.png](docs%2Fimgs%2Fdatum.png)
+
+![transformation.png](docs%2Fimgs%2Ftransformation.png)
+
+![estimator.png](docs%2Fimgs%2Festimator.png)
+
+This is one example of a workflow using RockML for horizon picking:
+
+![overview.png](docs%2Fimgs%2Foverview.png)
+
 ## Installation
 
 RockML was developed and tested using Python 3.6 Pypi or Anaconda, x86, and Power, but we tested on Python 3.10.
